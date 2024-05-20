@@ -7,6 +7,7 @@ Este repositório contém resumos das matérias lecionadas na cadeira de Aprendi
 - [Metodologias de Análise de Dados](Resumos/Metodologias_Análise_de_Dados.md)
 - [Paradigmas de Aprendizagem Automática](Resumos/Paradigmas_Aprendizagem_Automatica.md)
 - [Pré-Processamento de Dados](Resumos/Preparacao_Dados.md)
+- [Avaliação de Modelos e Métricas de Qualidade](Resumos/Avaliacao_Modelos.md)
 
 # Cadeira
 
